@@ -1,3 +1,3 @@
 function website() {
-    location.href = "www.aleksandraskica.com";
+    location.href = "https://github.com/AleksS97";
 }

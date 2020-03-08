@@ -21,6 +21,14 @@ h2 {
 	font-size: 30px;
 }
 
+li {
+	list-style-type: none;
+	display: inline-block;
+	font-size: 25px;
+	margin: 0;
+	padding: 10px 40px;
+}
+
 .container {
 	position: relative;
 	width: 100%;
@@ -62,3 +70,4 @@ h2 {
   transform: translate(-50%, -50%);
 
 }
+
